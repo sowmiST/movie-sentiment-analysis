@@ -2,7 +2,7 @@
 
 Classifies IMDB movie reviews as **Positive** or **Negative**, and compares a classical approach (TF-IDF + Logistic Regression) with a fine-tuned transformer (DistilBERT). Includes a Streamlit web app for live predictions.
 
-**Live demo (TF-IDF model):** <your-streamlit-link>
+**Live demo (TF-IDF model):** https://movie-sentiment-sowmiya.streamlit.app
 
 ![App screenshot](screenshot.jpeg)
 
